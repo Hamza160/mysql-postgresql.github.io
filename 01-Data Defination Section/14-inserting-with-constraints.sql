@@ -1,0 +1,1 @@
+INSERT INTO users(yearly_salary) VALUES(200);
